@@ -13,7 +13,7 @@ export default defineConfig({
         compositionOnly: false,
         runtimeOnly: false,
         strictMessage: false,
-        // escapeHtml: true,
+        escapeHtml: true,
     }),
   ],
   resolve: {

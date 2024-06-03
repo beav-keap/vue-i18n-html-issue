@@ -18,7 +18,7 @@ export default {
 <i18n>
 {
     "en-us": {
-        "body": "<p>Greetings user{'@'}domain.com</p>"
+        "body": "<p>Test</p>Greetings user{'@'}domain.com"
     }
 }
 </i18n>
